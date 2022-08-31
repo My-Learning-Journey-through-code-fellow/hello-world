@@ -1,49 +1,57 @@
+/* body {background-color: lightgray;} */
 
-body { 
-    background-color: rgb(43, 43, 43);
+body {
+    background-color: antiquewhite;
     margin: 100px;
-    padding: 10px; 
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration-color: white;
-  }
-  
-  h1 {
-    float: none;
-    color: ghostwhite;
-  }
-  
-  header {
-    background-color: rgb(0, 0, 0);
-  }
-  
-  /* p{font-family: 'Courier';
-  background-color: red;
-  } */
-  
-  img {
-    width: 400px;
-  }
-  
-  nav {
-    width: 100%;
-    text-align: right;
-  }
-  
-  nav li {
+    padding 10px;
+    border: 10px solid; color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p {
+background-color:black;
+text-size-adjust: 50px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 400px
+}
+
+nav li {
     display: inline-block;
     margin-top: 30px;
-    margin-right: 20px;
-  }
-  
-  #hero {
-    width: 700px;
-  }
-  
-  .lower {
-    display: inline-block;
+    margin-bottom: 30px;
+    color: antiquewhite;
+}
+
+
+footer {
     text-align: center;
-    margin-left: 40px;
-  }
+    background-color: saddlebrown;
+    color: white
+}
+
+h1 {
+    float: inline-start;
+}
+
+h2 {
+    text-align: center;
+    background-color: burlywood;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
   
   footer {
     text-align: center;
