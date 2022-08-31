@@ -1,2 +1,8 @@
 
-body {background-color: rgb(41, 155, 117);}
+
+body { 
+    background-color: rgb(59, 59, 59);
+    margin: 100px;
+    padding: 10px; 
+    font-family: 'Helvetica';
+  }
