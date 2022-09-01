@@ -1,9 +1,8 @@
-/* body {background-color: lightgray;} */
 
 body {
     background-color: antiquewhite;
     margin: 100px;
-    padding 10px;
+    padding: 10px;
     border: 10px solid; color:black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -32,7 +31,7 @@ nav li {
 
 footer {
     text-align: center;
-    background-color: saddlebrown;
+    background-color: rgb(0, 0, 0);
     color: white
 }
 
