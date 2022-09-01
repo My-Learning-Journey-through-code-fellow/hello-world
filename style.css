@@ -11,9 +11,7 @@ p {
 background-color:black;
 text-size-adjust: 50px;
 color: white;
-display: block;
-margin-left: auto;
-margin-right: auto;
+text-align: center;
 }
 
 header {
