@@ -8,7 +8,7 @@ body {
 }
 
 p {
-    padding-left: 100px;
+    padding-left: 600px;
 background-color:black;
 text-size-adjust: 50px;
 color: white;
@@ -21,7 +21,7 @@ header {
     text-align: center;
 }
 
-img {padding-left: 100px;
+img {padding-left: 600px;
     width: 400px
 }
 
