@@ -5,10 +5,12 @@ body {
     padding: 10px;
     border: 10px solid; color:black;
     font-family: Arial, Helvetica, sans-serif;
+    text ;
 }
 p {
 background-color:black;
 text-size-adjust: 50px;
+color: white;
 }
 
 header {
