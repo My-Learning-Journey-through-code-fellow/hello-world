@@ -2,10 +2,6 @@
 
 let myName;
 
-
-console.log(myName);
-
-
 myName = 'Trace';
 console.log(myName);
 
