@@ -6,6 +6,8 @@ let usersName;
 
 let message;
 
+let ask
+
 function getName(){
 usersName = prompt('Who are you?');
 document.write ('Hi, ' + usersName);
@@ -28,4 +30,9 @@ function showDisc(){
     for (let i = 0; i < usersNum && i < 5; i++){
       document.write('<img src="disk.jpg" alt="Compact Disc" class="Disc"/>');
     }
+  }
+
+  function enterQuestion(){
+    let userAnswer = prompt (usersName + ', Do you want to enter website').toLowerCase();
+        while (userAnswer !== 'yes');
   }
