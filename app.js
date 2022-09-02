@@ -34,5 +34,7 @@ function showDisc(){
 
   function enterQuestion(){
     let userAnswer = prompt (usersName + ', Do you want to enter website').toLowerCase();
-        while (userAnswer !== 'yes');
+        while (userAnswer !== 'yes'){
+            userAnswer = prompt ('WRONG, Do you want to enter?').toLowerCase();
+        };
   }
